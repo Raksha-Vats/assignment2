@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Raksha-Vats/assignment2.git
     path: ./
-    targetRevision: main
+    targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
     namespace: default
